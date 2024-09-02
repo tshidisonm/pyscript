@@ -1,0 +1,2 @@
+# pyscript
+python project
